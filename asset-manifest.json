@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TaskyIO/static/css/main.d73cf6e0.chunk.css",
+    "main.js": "/TaskyIO/static/js/main.44544363.chunk.js",
+    "main.js.map": "/TaskyIO/static/js/main.44544363.chunk.js.map",
+    "runtime-main.js": "/TaskyIO/static/js/runtime-main.d725ba0f.js",
+    "runtime-main.js.map": "/TaskyIO/static/js/runtime-main.d725ba0f.js.map",
+    "static/js/2.0fc17c5c.chunk.js": "/TaskyIO/static/js/2.0fc17c5c.chunk.js",
+    "static/js/2.0fc17c5c.chunk.js.map": "/TaskyIO/static/js/2.0fc17c5c.chunk.js.map",
+    "index.html": "/TaskyIO/index.html",
+    "static/css/main.d73cf6e0.chunk.css.map": "/TaskyIO/static/css/main.d73cf6e0.chunk.css.map",
+    "static/js/2.0fc17c5c.chunk.js.LICENSE.txt": "/TaskyIO/static/js/2.0fc17c5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d725ba0f.js",
+    "static/js/2.0fc17c5c.chunk.js",
+    "static/css/main.d73cf6e0.chunk.css",
+    "static/js/main.44544363.chunk.js"
+  ]
+}
